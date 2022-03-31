@@ -1,15 +1,52 @@
 ![Tool Logo][imglogo]
 
 
-# Title
+# How to find and download topographic maps of Canada
 Description of contents
 
-### First header
-Content
+### Part A: Finding the map sheet of interest
 
-### Second Header
+Go to TOPORAMA https://atlas.gc.ca/toporama/en/index.html
 
-Content
+In the search bar, enter "Niagara". The map zooms to the Niagara area.
+
+Zoom in and out using the mouse scroll wheel. To pan the map, click and drag.
+
+click the red target beside "Get coordinates from map".
+
+Click the map to see a pop-up of information including Geographic Coordinates, UTM
+Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination. 
+
+Note the NTS map sheet number and name (i.e. 030M03 - NIAGARA)
+
+### Part B: Downloading maps and data
+
+Expand the Toporama menu and click on the “Downloaded Maps and Data”
+
+Click under Raster Maps “Get all maps for all of Canada”. This will bring you to Open Government Portal web page. 
+
+Search for "Digital Topographic Raster Maps"
+
+Alternately, go to: 
+https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9
+
+Explore the options for download, or click here for Print-ready PDF files https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0
+
+Click the URL to access the FTP directory for download.
+
+The number of the map is 030M03. 
+
+Click on the folder labeled 50k. 
+
+Locate the folder with 030 and click it.
+
+Find the folder with m and click it.
+
+Find the name that has the full map name in it and click on it. Example: canmatrix_085j08_tif.zip
+17. This downloads as a zip file. The zip file will need to be
+extracted and saved.
+18. Open the TIF file and the full topographic map of Yellowknife,
+including the margin information, will display.
 
 ### Etc.
  
