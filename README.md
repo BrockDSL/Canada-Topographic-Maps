@@ -2,7 +2,6 @@
 
 
 # How to find and download topographic maps of Canada
-Description of contents
 
 ### Part A: Finding the map sheet of interest
 
@@ -38,23 +37,18 @@ The number of the map is 030M03.
 
 Click on the folder labeled 50k. 
 
-Locate the folder with 030 and click it.
+Locate the folder with "030" and click it.
 
-Find the folder with m and click it.
+Find the folder with "m" and click it.
 
-Find the name that has the full map name in it and click on it. Example: canmatrix_085j08_tif.zip
-17. This downloads as a zip file. The zip file will need to be
-extracted and saved.
-18. Open the TIF file and the full topographic map of Yellowknife,
-including the margin information, will display.
+Rest the cursor over each file to see the filename and make an appropriate selection. For example, a filename ending with "prtrdy" will download a print ready PDF.
 
-### Etc.
  
  
  
 
   
-**This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
+**This tutorial is brought to you by the Brock University Map, Data & GIS Library / Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at maplib@brocku.ca OR dsl@brocku.ca.**  
   
 You can also find us on:  
 [Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
