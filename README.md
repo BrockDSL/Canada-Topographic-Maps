@@ -5,43 +5,43 @@
 
 ### Part A: Finding the map sheet of interest
 
-Go to TOPORAMA https://atlas.gc.ca/toporama/en/index.html
+1. Go to TOPORAMA https://atlas.gc.ca/toporama/en/index.html
 
-In the search bar, enter "Niagara". The map zooms to the Niagara area.
+2. In the search bar, enter "Niagara". The map zooms to the Niagara area.
 
-Zoom in and out using the mouse scroll wheel. To pan the map, click and drag.
+3. Zoom in and out using the mouse scroll wheel. To pan the map, click and drag.
 
-click the red target beside "Get coordinates from map".
+4. Click the red target beside "Get coordinates from map".
 
-Click the map to see a pop-up of information including Geographic Coordinates, UTM
+5. Click the map to see a pop-up of information including Geographic Coordinates, UTM
 Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination. 
 
-Note the NTS map sheet number and name (i.e. 030M03 - NIAGARA)
+==Note the NTS map sheet number and name (i.e. 030M03 - NIAGARA)==
 
 ### Part B: Downloading maps and data
 
-Expand the Toporama menu and click on the “Downloaded Maps and Data”
+1. Expand the Toporama menu and click on the “Downloaded Maps and Data”
 
-Click under Raster Maps “Get all maps for all of Canada”. This will bring you to Open Government Portal web page. 
+2. Click under Raster Maps “Get all maps for all of Canada”. This will bring you to the Open Government Portal web page. 
 
-Search for "Digital Topographic Raster Maps"
+3. Search for "Digital Topographic Raster Maps"
 
 Alternately, go to: 
 https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9
 
 Explore the options for download, or click here for Print-ready PDF files https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0
 
-Click the URL to access the FTP directory for download.
+4. Click the URL to access the FTP directory for download.
 
 The number of the map is 030M03. 
 
-Click on the folder labeled 50k. 
+5. Click on the folder labeled 50k. 
 
-Locate the folder with "030" and click it.
+6. Locate the folder with "030" and click it.
 
-Find the folder with "m" and click it.
+7. Find the folder with "m" and click it.
 
-Rest the cursor over each file to see the filename and make an appropriate selection. For example, a filename ending with "prtrdy" will download a print ready PDF.
+8. Rest the cursor over each file to see the filename and make an appropriate selection. For example, a filename ending with "prtrdy" will download a print ready PDF.
 
  
  
