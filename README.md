@@ -50,8 +50,8 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
   
 You can also find us on:  
 [Facebook](https://www.facebook.com/Brock-University-Map-Data-GIS-Library-107927255178257)  
-[Twitter](https://twitter.com/BrockU_MDGL) 
-[Instagram](https://www.instagram.com/brockmdgl/)  
+[Twitter](https://twitter.com/BrockU_MDGL)  
+[Instagram](https://www.instagram.com/brockmdgl/)   
  
 
 
