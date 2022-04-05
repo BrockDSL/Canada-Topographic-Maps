@@ -16,7 +16,7 @@
 5. Click the map to see a pop-up of information including Geographic Coordinates, UTM
 Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination. 
 
-==Note the NTS map sheet number and name (i.e. 030M03 - NIAGARA)==
+> **Note the NTS map sheet number and name (i.e. 030M03 - NIAGARA)**
 
 ### Part B: Downloading maps and data
 
@@ -26,14 +26,12 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
 
 3. Search for "Digital Topographic Raster Maps"
 
-Alternately, go to: 
-https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9
+> Alternately, go to: 
+> https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9
 
-Explore the options for download, or click here for Print-ready PDF files https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0
+> Explore the options for download, or click here for Print-ready PDF files https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0
 
-4. Click the URL to access the FTP directory for download.
-
-The number of the map is 030M03. 
+4. Click the URL to access the FTP directory for download. The number of the map is 030M03. 
 
 5. Click on the folder labeled 50k. 
 
