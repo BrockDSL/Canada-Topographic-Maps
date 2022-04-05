@@ -46,7 +46,7 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
  ---
 
   
-**This tutorial is brought to you by the [Brock University Map, Data & GIS Library](https://brocku.ca/library/mdgl/)  E-mail us at maplib@brocku.ca **  
+This tutorial is brought to you by the [Brock University Map, Data & GIS Library](https://brocku.ca/library/mdgl/)  E-mail us at maplib@brocku.ca 
   
 You can also find us on:  
 [Facebook](https://www.facebook.com/Brock-University-Map-Data-GIS-Library-107927255178257)  
