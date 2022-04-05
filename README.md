@@ -5,7 +5,7 @@
 
 ### Part A: Finding the map sheet of interest
 
-1. Go to TOPORAMA https://atlas.gc.ca/toporama/en/index.html
+1. Go to TOPORAMA [https://atlas.gc.ca/toporama/en/index.html](https://atlas.gc.ca/toporama/en/index.html)
 
 2. In the search bar, enter "Niagara". The map zooms to the Niagara area.
 
@@ -27,9 +27,9 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
 3. Search for "Digital Topographic Raster Maps"
 
 > Alternately, go to: 
-> https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9
+> [https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9](https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9)
 
-> Explore the options for download, or click here for Print-ready PDF files https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0
+> Explore the options for download, or click here for Print-ready PDF files [https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0](https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0)
 
 4. Click the URL to access the FTP directory for download. The number of the map is 030M03. 
 
