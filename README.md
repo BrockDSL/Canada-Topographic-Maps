@@ -1,4 +1,4 @@
-![Topo map image](Toporama2010s_c.jpg)
+![Topo map image](Toporama2010s_banner.jpg)
 
 
 # How to find and download topographic maps of Canada
