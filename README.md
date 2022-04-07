@@ -31,7 +31,7 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
 
 > Explore the options for download, or click here for Print-ready PDF files [https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0](https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0)
 
-4. Click the URL to access the FTP directory for download. The number of the map is 030M03. 
+4. Click the URL to access the FTP directory for download. The number of the 50k map is 030M03. 
 ![DigitalTopoRasterMaps](DigitalTopoRasterMaps.jpg)  
 5. Click on the folder labeled 50k. Each click may take a few seconds to activate and load the FTP site.
 
@@ -41,7 +41,7 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
 
 8. Find the folder with "03" and click it.
 
-8. Rest the cursor over each file to see the filename and make an appropriate selection. For example, a filename ending with "prtrdy" will download a print ready PDF. If you can't see the file names, click each one to download and see the files.
+9. Rest the cursor over each file to see the filename and make an appropriate selection. For example, a filename ending with "prtrdy" will download a print ready PDF. If you can't see the file names, click each one to download and see the files. Look in your DOWNLOADS directory for the files.
 
  
  
