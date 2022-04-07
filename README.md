@@ -26,7 +26,7 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
 
  3. In the search box, enter "Digital Topographic Raster Maps"
   
-![DigitalTopoRasterMaps](DigitalTopoRasterMaps.jpg)  
+    ![DigitalTopoRasterMaps](DigitalTopoRasterMaps.jpg)  
   
 OR
 
