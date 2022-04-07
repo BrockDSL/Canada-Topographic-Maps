@@ -42,7 +42,7 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
 
  9. Find the folder with "03" and click it.
 
- 10. Rest the cursor over each file to see the filename at the bottom of the window and make an appropriate selection. For example, a filename ending with "prtrdy" will download a print ready PDF. If you can't see the file names, click each one to download and see the files. Look in your DOWNLOADS directory for the files.
+ 10. Rest the cursor over each file to see the filename at the bottom of the window and make an appropriate selection. For example, a filename ending with "prtpdf" will download a print ready PDF. If you can't see the file names, click each one to download and see the files. Look in your DOWNLOADS directory for the files.
 
  > HINT: the second file in the listing for 30M03 is the print-ready PDF.
  
