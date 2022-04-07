@@ -20,29 +20,29 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
 
 ### Part B: Downloading maps and data
 
-1. Expand the Toporama menu and click on the “Downloaded Maps and Data”
+ 1. Expand the Toporama menu and click on the “Downloaded Maps and Data”
 
-2. Click under *Raster Maps* “Get all maps for all of Canada”. This will bring you to the Open Government Portal web page. 
+ 2. Click under *Raster Maps* “Get all maps for all of Canada”. This will bring you to the Open Government Portal web page. 
 
-3. In the search box, enter "Digital Topographic Raster Maps"
+ 3. In the search box, enter "Digital Topographic Raster Maps"
   
 ![DigitalTopoRasterMaps](DigitalTopoRasterMaps.jpg)  
   
 OR
 
-4. Click here directly [https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0](https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0)
+ 4. Click here directly [https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0](https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0)
 
-5. Click the URL to access the FTP directory for download. The number of the 50k map is 030M03. 
+ 5. Click the URL to access the FTP directory for download. The number of the 50k map is 030M03. 
 
-6. Click on the folder labeled 50k. Each click may take a few seconds to activate and load the FTP site.
+ 6. Click on the folder labeled 50k. Each click may take a few seconds to activate and load the FTP site.
 
-7. Locate the folder with "030" and click it.
+ 7. Locate the folder with "030" and click it.
 
-8. Find the folder with "m" and click it.
+ 8. Find the folder with "m" and click it.
 
-9. Find the folder with "03" and click it.
+ 9. Find the folder with "03" and click it.
 
-10. Rest the cursor over each file to see the filename at the bottom of the window and make an appropriate selection. For example, a filename ending with "prtrdy" will download a print ready PDF. If you can't see the file names, click each one to download and see the files. Look in your DOWNLOADS directory for the files.
+ 10. Rest the cursor over each file to see the filename at the bottom of the window and make an appropriate selection. For example, a filename ending with "prtrdy" will download a print ready PDF. If you can't see the file names, click each one to download and see the files. Look in your DOWNLOADS directory for the files.
 
  > HINT: the second file in the listing for 30M03 is the print-ready PDF.
  
