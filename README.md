@@ -25,11 +25,11 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
  2. Click under *Raster Maps* “Get all maps for all of Canada”. This will bring you to the Open Government Portal web page. 
 
  3. In the search box, enter "Digital Topographic Raster Maps"
-  
+    
     ![DigitalTopoRasterMaps](DigitalTopoRasterMaps.jpg)  
-  
-OR
-
+      
+    OR
+    
  4. Click here directly [https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0](https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0)
 
  5. Click the URL to access the FTP directory for download. The number of the 50k map is 030M03. 
