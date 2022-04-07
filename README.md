@@ -33,13 +33,15 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
 
 4. Click the URL to access the FTP directory for download. The number of the map is 030M03. 
 
-5. Click on the folder labeled 50k. 
+5. Click on the folder labeled 50k. Each click may take a few seconds to activate and load the FTP site.
 
 6. Locate the folder with "030" and click it.
 
 7. Find the folder with "m" and click it.
 
-8. Rest the cursor over each file to see the filename and make an appropriate selection. For example, a filename ending with "prtrdy" will download a print ready PDF.
+8. Find the folder with "03" and click it.
+
+8. Rest the cursor over each file to see the filename and make an appropriate selection. For example, a filename ending with "prtrdy" will download a print ready PDF. If you can't see the file names, click each one to download and see the files.
 
  
  
