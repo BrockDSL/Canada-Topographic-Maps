@@ -22,9 +22,9 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
 
 1. Expand the Toporama menu and click on the “Downloaded Maps and Data”
 
-2. Click under Raster Maps “Get all maps for all of Canada”. This will bring you to the Open Government Portal web page. 
+2. Click under *Raster Maps* “Get all maps for all of Canada”. This will bring you to the Open Government Portal web page. 
 
-3. Search for "Digital Topographic Raster Maps"
+3. In the search box, enter "Digital Topographic Raster Maps"
 
 > Alternately, go to: 
 > [https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9](https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9)
@@ -32,7 +32,7 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
 > Explore the options for download, or click here for Print-ready PDF files [https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0](https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0)
 
 4. Click the URL to access the FTP directory for download. The number of the map is 030M03. 
-
+![DigitalTopoRasterMaps](DigitalTopoRasterMaps.jpg)  
 5. Click on the folder labeled 50k. Each click may take a few seconds to activate and load the FTP site.
 
 6. Locate the folder with "030" and click it.
