@@ -28,11 +28,11 @@ Coordinates, NTS Map sheet, UTM Elevation and Magnetic declination.
     
     ![DigitalTopoRasterMaps](DigitalTopoRasterMaps.jpg)  
           
- 4. Click the first entry then scroll down to see the file options. To access a print-ready PDF, click the
+ 4. Click the first entry then scroll down to see the file options. To access a print-ready PDF, click download directory for 1:50,000 scale product:
 
     ![PrintReady](PrintReady.jpg)          
     
- 5. Alternately, click directly [https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0](https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0)
+ 5. Alternately, go directly to [https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0](https://open.canada.ca/data/en/dataset/d248b5be-5887-4cfb-942f-d425d82e6ea9/resource/9ca5525b-8527-40ec-9711-a2d744cf1ec0)
 
  6. Click the URL to access the FTP directory for download. The number of the 50k map is 030M03. 
 
